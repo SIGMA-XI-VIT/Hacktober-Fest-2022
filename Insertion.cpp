@@ -2,7 +2,7 @@
 
 void printarr(int *a,int n){
     for (int m=0;m<n;m++){
-        printf("%d\n",a[m]);
+        printf("%d\n",a[m]) ;
     }
 }
 
